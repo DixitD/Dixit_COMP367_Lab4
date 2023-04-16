@@ -1,0 +1,12 @@
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.deps.json
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.dll
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.pdb
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfo.cs
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.dll
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/refint/StringLibrary.dll
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.pdb
+/Users/dhihoriya/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/ref/StringLibrary.dll
